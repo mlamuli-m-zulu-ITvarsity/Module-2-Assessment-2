@@ -214,5 +214,15 @@ textarea{
 }
 
 a.button:hover{
-    color: yellowgreen;
+    color: rgb(27, 132, 202);
+}
+
+/*===================LOGO===================*/
+
+
+img.info-box-logo{
+    height: 100px;
+    width: 100px !important;
+    margin: 1px;
+    float: left;
 }
